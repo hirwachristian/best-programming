@@ -1,0 +1,4 @@
+2024-08-01 20:47:26 DEBUG Submitted1:18 - Received request with ID: null and Names: null
+2024-08-01 20:47:26 INFO  Submitted1:24 - Response sent for ID: null and Names: null
+2024-08-01 21:11:37 DEBUG Submitted1:18 - Received request with ID: 25568 and Names: christian
+2024-08-01 21:11:37 INFO  Submitted1:24 - Response sent for ID: 25568 and Names: christian
